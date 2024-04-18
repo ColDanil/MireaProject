@@ -25,6 +25,11 @@
         <item
             android:id="@+id/nav_brauser"
             android:icon="@android:drawable/ic_menu_mapmode"
-            android:title="Web browse" />
+            android:title="Web browser" />
+
+        <item
+            android:id="@+id/nav_worker"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="Worker" />
     </group>
 </menu>
