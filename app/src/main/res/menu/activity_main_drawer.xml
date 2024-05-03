@@ -31,5 +31,20 @@
             android:id="@+id/nav_worker"
             android:icon="@android:drawable/ic_menu_mapmode"
             android:title="Worker" />
+
+        <item
+            android:id="@+id/cameraFragment"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="Camera" />
+
+        <item
+            android:id="@+id/microFragment"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="Microphone" />
+
+        <item
+            android:id="@+id/detectorFragment"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="Detector" />
     </group>
 </menu>

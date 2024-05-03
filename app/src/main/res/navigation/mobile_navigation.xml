@@ -39,4 +39,19 @@
         android:name="ru.mirea.galnykin.mireaproject.WorkerFragment"
         android:label="fragment_worker"
         tools:layout="@layout/fragment_worker" />
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="ru.mirea.galnykin.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/microFragment"
+        android:name="ru.mirea.galnykin.mireaproject.MicroFragment"
+        android:label="fragment_micro"
+        tools:layout="@layout/fragment_micro" />
+    <fragment
+        android:id="@+id/detectorFragment"
+        android:name="ru.mirea.galnykin.mireaproject.DetectorFragment"
+        android:label="fragment_detector"
+        tools:layout="@layout/fragment_detector" />
 </navigation>
