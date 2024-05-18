@@ -46,5 +46,25 @@
             android:id="@+id/detectorFragment"
             android:icon="@android:drawable/ic_menu_search"
             android:title="Detector" />
+
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/filesFragment"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="Files" />
+
+        <item
+            android:id="@+id/webSiteFragment"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="API" />
+
+        <item
+            android:id="@+id/mapsFragment"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="Maps" />
     </group>
 </menu>

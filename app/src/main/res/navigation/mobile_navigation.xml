@@ -54,4 +54,24 @@
         android:name="ru.mirea.galnykin.mireaproject.DetectorFragment"
         android:label="fragment_detector"
         tools:layout="@layout/fragment_detector" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="ru.mirea.galnykin.mireaproject.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/filesFragment"
+        android:name="ru.mirea.galnykin.mireaproject.FilesFragment"
+        android:label="fragment_files"
+        tools:layout="@layout/fragment_files" />
+    <fragment
+        android:id="@+id/webSiteFragment"
+        android:name="ru.mirea.galnykin.mireaproject.WebsiteFragment"
+        android:label="fragment_website"
+        tools:layout="@layout/fragment_website" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="ru.mirea.galnykin.mireaproject.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
 </navigation>
